@@ -39,6 +39,6 @@ Provide a valid URL and hit "Fetch", the content is then loaded into the textare
 
 	1.2. Persist reading progress
 
-2. Replace Tauri icon
+2. ~~Replace Tauri icon~~
 
 3. Add eBook support
